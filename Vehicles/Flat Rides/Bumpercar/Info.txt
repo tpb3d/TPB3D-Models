@@ -1,0 +1,7 @@
+Name: Bumper Car - 1957 Dodgem
+
+Creator: Aelk2004, mopaso
+
+Poly Count:   Bumper Car: 232
+
+Textures: 2
